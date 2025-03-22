@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using StudentManagement.Models;
-
+//testiteksti
 namespace StudentManagement.Controllers
 {
     [Route("api/[controller]")]
